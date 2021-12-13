@@ -94,12 +94,6 @@
       <groupId>net.sourceforge.pmd</groupId>
       <artifactId>pmd-core</artifactId>
       <version>${pmd.version}</version>
-      <exclusions>
-        <exclusion>
-          <groupId>junit</groupId>
-          <artifactId>junit</artifactId>
-        </exclusion>
-        <exclusion>
           <groupId>xml-apis</groupId>
           <artifactId>xml-apis</artifactId>
         </exclusion>
