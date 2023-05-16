@@ -151,7 +151,7 @@
     <!-- TODO http://jira.codehaus.org/browse/SONAR-2011
     We need following dependency, otherwise we will receive
     java.lang.NoClassDefFoundError: org/apache/maven/project/MavenProject
-    during call mock(org.sonar.api.resources.Project.class)
+    during call mock(org.sonar.api.resources.Project.class)jfdskjalf
     -->
     <dependency>
       <groupId>org.apache.maven</groupId>
